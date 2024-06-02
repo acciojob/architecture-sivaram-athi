@@ -28,6 +28,11 @@ table{
 	text-align:center;
 }
 
+td {
+    border: 1px solid black;
+    vertical-align: top;
+}
+
 .third{
 	width:200px;
 	border:1px solid black;
