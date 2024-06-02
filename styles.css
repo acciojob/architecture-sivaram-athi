@@ -19,12 +19,10 @@ table{
 
 .first{
 	width:200px;
-	border:1px solid black;
 }
 
 .second{
 	width:600px;
-	border:1px solid black;
 	text-align:center;
 }
 
@@ -35,5 +33,4 @@ td {
 
 .third{
 	width:200px;
-	border:1px solid black;
 }
